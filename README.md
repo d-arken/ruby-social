@@ -1,5 +1,5 @@
-# toasted
-social network for toasteds
+# ruby social
+social network for course
  
 ## Specs 
 	Rails 
